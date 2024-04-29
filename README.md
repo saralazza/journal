@@ -68,8 +68,8 @@ Per eseguire la versione multiprocesso è sufficiente runnare il seguente comand
 ```
 dove i parametri indicano:
 
-- finput, il file di input da cui viene letto il testo da trasformare in giornale
-- foutput, il file sul quale scrivere il testo formattato 
+- finput, il file di input
+- foutput, il file sul quale scrivere l'output
 - s, il numero di spazi tra una colonna e l'altra
 - h, il numero di righe del testo formattato
 - w, il numero di caratteri massimi per ogni colonna del testo formattato
