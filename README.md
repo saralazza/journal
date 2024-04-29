@@ -68,7 +68,7 @@ Per eseguire la versione multiprocesso è sufficiente runnare il seguente comand
 ```
 dove i parametri indicano:
 
-- finput, il file di input
+- finput, il file di input da cui leggere il testo
 - foutput, il file sul quale scrivere l'output
 - s, il numero di spazi tra una colonna e l'altra
 - h, il numero di righe del testo formattato
